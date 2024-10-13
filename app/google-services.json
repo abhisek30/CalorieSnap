@@ -12,7 +12,20 @@
           "package_name": "com.avinya.ai.caloriesnap"
         }
       },
-      "oauth_client": [],
+      "oauth_client": [
+        {
+          "client_id": "833153146542-mb9qji9aedmiife9936hqc39qvsmitrm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avinya.ai.caloriesnap",
+            "certificate_hash": "45d4bd42778b7cb5c342efb82ac35d7eabd9b4fc"
+          }
+        },
+        {
+          "client_id": "833153146542-tasqhobamvi0788s5nr3ckn8e2jtibqn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
       "api_key": [
         {
           "current_key": "AIzaSyCFTDQYb9WLx18te0W7a8_kAqegd2gw84o"
@@ -20,7 +33,12 @@
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": []
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833153146542-tasqhobamvi0788s5nr3ckn8e2jtibqn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
         }
       }
     }
