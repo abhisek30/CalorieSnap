@@ -52,7 +52,7 @@ fun CalorieSnapTheme(
 
     MaterialTheme(
         colorScheme = colorScheme,
-        typography = Typography,
+        typography = LexendTypography,
         content = content
     )
 }
