@@ -1,4 +1,4 @@
-package com.avinya.ai.caloriesnap.ui.theme
+package com.avinya.ai.caloriesnap.presentation.theme
 
 import androidx.compose.material3.Typography
 import androidx.compose.ui.text.TextStyle
