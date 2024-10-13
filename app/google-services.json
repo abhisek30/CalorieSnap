@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "833153146542",
+    "project_id": "caloriesnap-8ed00",
+    "storage_bucket": "caloriesnap-8ed00.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833153146542:android:a7e6d0fbc68ba2b536173f",
+        "android_client_info": {
+          "package_name": "com.avinya.ai.caloriesnap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFTDQYb9WLx18te0W7a8_kAqegd2gw84o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
