@@ -13,8 +13,9 @@ googleServices = "4.4.2"
 firebaseCrashlytics = "3.0.2"
 firebaseAuthKtx = "23.0.0"
 playServicesAuth = "21.2.0"
-ksp = "2.0.10-1.0.24"
+ksp = "2.0.20-1.0.24"
 hilt = "2.52"
+datastoreCoreAndroid = "1.1.1"
 
 [libraries]
 androidx-core-ktx = { group = "androidx.core", name = "core-ktx", version.ref = "coreKtx" }
@@ -38,6 +39,7 @@ firebase-auth-ktx = { group = "com.google.firebase", name = "firebase-auth-ktx",
 play-services-auth = { group = "com.google.android.gms", name = "play-services-auth", version.ref = "playServicesAuth" }
 hilt-android = { module = "com.google.dagger:hilt-android", version.ref = "hilt" }
 hilt-android-compiler = { module = "com.google.dagger:hilt-android-compiler", version.ref = "hilt" }
+androidx-datastore-preferences = { module = "androidx.datastore:datastore-preferences", version.ref = "datastoreCoreAndroid" }
 
 
 [plugins]

@@ -67,4 +67,5 @@ dependencies {
     implementation(libs.firebase.crashlytics)
     implementation(libs.hilt.android)
     ksp(libs.hilt.android.compiler)
+    implementation(libs.androidx.datastore.preferences)
 }
